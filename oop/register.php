@@ -58,7 +58,7 @@ if(isset($_POST['register'])){
                         <input class="form-control" type="password" name="password_confirm" id="password_confirm">
                     </div>
                     <div class="d-grip gap-2">
-                        <button name="register" type="submit" class="btn btn-success">register</button>
+                        <button name="register" type="submit" class="btn btn-primary">register</button>
                     </div>
                 </form>
             </div>

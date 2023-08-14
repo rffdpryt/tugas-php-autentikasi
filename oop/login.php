@@ -49,7 +49,7 @@ if(isset($_POST['login'])){
                         <input class="form-control" type="password" name="password" id="password">
                     </div>
                     <div class="d-grip gap-2">
-                        <button name="login" type="submit" class="btn btn-success">Login</button>
+                        <button name="login" type="submit" class="btn btn-primary">Login</button>
                     </div>
                 </form>
             </div>
